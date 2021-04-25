@@ -40,6 +40,20 @@ video {
     width: 100%;
 }
 
+/* styling for href link */
+
+#hsw-articles a:link, .home-product a:link {
+    color: lightblue;
+    }
+    
+    #hsw-articles a:visited, .home-product a:visited {
+        color: yellow;
+    }
+    
+    #hsw-articles a:hover, .home-product a:hover  {
+        color: green;
+    }
+
 /* Styling for home/index section */
 
 #index-video {
@@ -110,18 +124,6 @@ footer { grid-area: footer; }
     'articles articles articles'
     'aside aside aside'
     'footer footer footer';
-}
-
-#hsw-articles a:link {
-color: lightblue;
-}
-
-#hsw-articles a:visited {
-    color: yellow;
-}
-
-#hsw-articles a:hover {
-    color: green;
 }
 
 .hsw-article1 { grid-area: article1; background: lightgray; }
