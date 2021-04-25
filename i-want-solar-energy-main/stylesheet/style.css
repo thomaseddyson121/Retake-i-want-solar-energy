@@ -44,15 +44,20 @@ video {
 
 #hsw-articles a:link, .home-product a:link {
     color: lightblue;
-    }
+}
     
-    #hsw-articles a:visited, .home-product a:visited {
-        color: yellow;
-    }
+#hsw-articles a:visited, .home-product a:visited {
+    color: yellow;
+}
     
-    #hsw-articles a:hover, .home-product a:hover  {
-        color: green;
-    }
+#hsw-articles a:hover, .home-product a:hover  {
+    color: green;
+}
+
+#hsw-articles a:active, .home-product a:active  {
+    color: gray;
+}
+
 
 /* Styling for home/index section */
 
