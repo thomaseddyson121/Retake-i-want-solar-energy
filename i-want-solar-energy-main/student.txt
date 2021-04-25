@@ -1,4 +1,4 @@
 Student name: Thomas Eddyson
 Student number: 671934
 Student class: HAINFVT1B
-GIT: https://github.com/thomaseddyson121/i-want-solar-energy
+https://github.com/thomaseddyson121/Retake-i-want-solar-energy/tree/main/i-want-solar-energy-main
