@@ -55,7 +55,7 @@ video {
 }
 
 #hsw-articles a:active, .home-product a:active  {
-    color: gray;
+    background-color: gray;
 }
 
 
