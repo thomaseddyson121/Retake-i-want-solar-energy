@@ -40,7 +40,7 @@ video {
     width: 100%;
 }
 
-/* styling for href link */
+/* styling for href link (selected link) */
 
 #hsw-articles a:link, .home-product a:link {
     color: lightblue;
